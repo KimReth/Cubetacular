@@ -1,4 +1,4 @@
-# Cubetacular
+# Space Speeder
 
 Welcome to Space Speeder! 
 
